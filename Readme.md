@@ -16,7 +16,7 @@ out it by issuing LED blinks and buzzer pings connected to a ESP8266 board.
 ## Software Requirements
 
 * Arduino IDE `>= 1.8.3`
-* Node.js, npm `>= 8.1.3`, `>= 5.0.3`
+* Node.js, npm `>= 8.1.3`, `>= 5.1.0`
 * Redis `>= 3.2.9`
 * Docker, docker-compose `>= 17.06.0`, `>= 1.14.0` (optional)
 
